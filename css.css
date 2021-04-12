@@ -1,0 +1,22 @@
+.hidden{
+    visibility: hidden;
+}
+.visible{
+    visibility: visible;
+}
+#box-image {
+    margin-top:40px;
+    margin-left:100px;
+    margin-bottom:10px;
+    width: 500px;
+    height: 200px;
+}
+.left{
+    margin-left: 200px;
+}
+.right{
+    margin-left:20px;
+}
+img{
+    position: absolute;
+}
